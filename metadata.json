@@ -1,0 +1,6 @@
+{
+  "name": "AI FOUNDRY",
+  "description": "IDEAS IN. PRODUCTS OUT. Digital product platform for non-technical founders building businesses with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
